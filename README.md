@@ -48,14 +48,14 @@ Your users should be able to:
 
 ### Screenshots
 
-![]()
+![desktop](https://github.com/dovelm/FEM-recipe-page-main/blob/main/screenshots/desktop.png)
 
-![]()
+![mobile](https://github.com/dovelm/FEM-recipe-page-main/blob/main/screenshots/mobile.png)
 
 
 ### Links
 
-[My Solution]()
+[My Solution](https://dovelm.github.io/FEM-recipe-page-main/)
 
 
 ## My process
