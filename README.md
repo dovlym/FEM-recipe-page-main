@@ -50,7 +50,7 @@ Your users should be able to:
 
 ![desktop](https://github.com/dovelm/FEM-recipe-page-main/blob/main/screenshots/desktop.png)
 
-![mobile](https://github.com/dovelm/FEM-recipe-page-main/blob/main/screenshots/mobile.png)
+![mobile](https://github.com/dovelm/FEM-recipe-page-main/blob/main/screenshots/mobile1.PNG)
 
 
 ### Links
