@@ -55,7 +55,7 @@ Your users should be able to:
 
 ### Links
 
-[My Solution](https://dovelm.github.io/FEM-recipe-page-main/)
+[My Solution](https://dovlym.github.io/FEM-recipe-page-main/)
 
 
 ## My process
